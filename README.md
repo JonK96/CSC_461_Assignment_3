@@ -1,5 +1,4 @@
-# CSC 461/592 – Assignment 3 VR
-Assembly
+# CSC 461/592 – Assignment 3 VR Assembly
 ## Team
 Austin Crenshaw, Jonathon Krajeski and Dillon Cook
 ## VR Assembly
